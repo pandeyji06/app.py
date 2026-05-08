@@ -441,26 +441,3 @@ st.markdown("""
 Sales Intelligence Dashboard · Built with Streamlit & Plotly · v2.0
 </div>
 """, unsafe_allow_html=True)
-```
-
-# AFTER PASTING THIS CODE
-
-Save the file:
-
-```bash
-Ctrl + S
-```
-
-Then run:
-
-```bash
-git add .
-git commit -m "final polished dashboard"
-git push
-```
-
-Wait around 20–40 seconds.
-
-Then refresh your Streamlit link.
-
-Your upgraded dashboard will go live automatically.
